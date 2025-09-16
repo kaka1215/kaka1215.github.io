@@ -1,20 +1,18 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![kaka1215](https://img.shields.io/badge/kaka1215-github-blue?logo=github)](https://github.com/kaka1215)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I am a graduate student at the School of Computer Science and Technology, Nanjing University. I obtained my Bachelor’s degree from Southeast University. My supervisor is Professor Gong Cheng (Websoft Group).
+
+My research interests include machine learning, natural language processing, and reasoning with large language models. I am passionate about exploring intelligent systems that bridge theoretical foundations with practical applications.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>ycli@smail.nju.edu.cn</code>  
+<code>ycli1215@163.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Nanjing University**, Master of Engineering in Computer Science and Technology (2025 – Now)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Southeast University**, Bachelor of Engineering in Artificial Intelligence (2021 - 2025)
+- Outstanding Student Award, Southeast University (Year), 2021.  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Machine Learning, Natural Language Processing, Knowledge Engineering
