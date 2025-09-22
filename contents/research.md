@@ -1,6 +1,4 @@
-# Research Experience
-
-## Adaptive Step-Size Decentralized Federated Learning Algorithm  
+### Adaptive Step-Size Decentralized Federated Learning Algorithm  
 Undergraduate Thesis | Jan 2025 – Jun 2025  
 
 - Developed a decentralized optimization algorithm that dynamically adjusts step sizes using local gradient information.  
@@ -10,7 +8,7 @@ Undergraduate Thesis | Jan 2025 – Jun 2025
 
 ---
 
-## Uncertainty-Aware Knowledge Graph Enhanced Legal Pre-trained Language Models  
+### Uncertainty-Aware Knowledge Graph Enhanced Legal Pre-trained Language Models  
 Knowledge Graph Laboratory, Southeast University | Sep 2023 – Oct 2024  
 
 - Focused on multi-defendant legal judgment prediction with uncertainty-aware knowledge graphs.  
