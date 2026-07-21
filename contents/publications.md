@@ -1,16 +1,23 @@
-**LogiNumSynth: Synthesizing Joint Logical–Numerical Reasoning Problems for Language Models**  
-*Under Review at ICLR 2026*  
+**Outcome-Anchored Credit Reallocation for Agentic Knowledge Graph Question Answering**
 
-Yiwei Liu, **Yucheng Li**, Xiao Li, Gong Cheng  
+*Under Review at AAAI 2027*
 
-[[arXiv]](https://arxiv.org/abs/2510.11031)  
-[[GitHub]](https://github.com/nju-websoft/LogiNumSynth)
+Mingyuan Li, **Yucheng Li**, Xiaxia Wang, Gong Cheng
 
 
-**PSR: Efficient Knowledge Graph Question Answering via Plan-Guided Schema-Level Reasoning**  
-*Under Review at ACL 2026*  
+**PSR: Efficient Knowledge Graph Question Answering via Plan-Guided Schema-Level Reasoning**
 
-Mingyuan Li, **Yucheng Li**, Yuheng Bao, Yawei Sun, Gong Cheng 
+*Under Review at EMNLP 2026*
+
+Mingyuan Li, **Yucheng Li**, Yuheng Bao, Yawei Sun, Gong Cheng
 
 [[GitHub]](https://github.com/nju-websoft/PSR)
 
+
+**LogiNumSynth: Synthesizing Joint Logical–Numerical Reasoning Problems for Language Models**
+
+*arXiv Preprint*
+
+Yiwei Liu, **Yucheng Li**, Xiao Li, Gong Cheng
+
+[[arXiv]](https://arxiv.org/abs/2510.11031)  [[GitHub]](https://github.com/nju-websoft/LogiNumSynth)

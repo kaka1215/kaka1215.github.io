@@ -1,5 +1,15 @@
+### OACR: Outcome-Anchored Credit Reallocation for Agentic Knowledge Graph Question Answering  
+Conference Paper (Under Review at AAAI 2027) | 2026  
+
+- Identified and empirically analyzed the **trajectory-to-operation mismatch** in outcome-supervised RL (GRPO) for agentic KGQA: the final-answer outcome cannot distinguish whether individual KG operations advance the search, yet all policy-generated tokens receive the same outcome-level advantage.  
+- Proposed **OACR**, which trains a KG-state outcome model to estimate outcome-reward changes between adjacent KG search states and converts them into operation credit to construct multiplicative token weights, reallocating token-level update magnitudes while preserving the sign of the outcome-level advantage.  
+- The KG-state outcome model is training-only and introduces **no additional inference-time cost**.  
+- Achieved state-of-the-art performance on WebQSP, ComplexWebQuestions, and GrailQA while using **fewer inference-time LLM calls and tokens** (e.g., 3.8 vs. 22.6 calls/question for ToG) across Qwen2.5-3B/7B and Llama-3.1-8B.  
+
+---
+
 ### PSR: Efficient Knowledge Graph Question Answering via Plan-Guided Schema-Level Reasoning  
-Conference Paper (Under Review) | 2025  
+Conference Paper (Under Review at EMNLP 2026) | 2025  
 
 - Proposed PSR, a training-free retrieval-augmented generation framework for multi-hop knowledge graph question answering with a constant number of LLM calls.  
 - Introduced a plan-guided schema-level reasoning paradigm that decouples LLM decision-making from iterative graph traversal.  
@@ -10,7 +20,7 @@ Conference Paper (Under Review) | 2025
 ---
 
 ### LogiNumSynth: Synthesizing Joint Logical–Numerical Reasoning Problems for Language Models  
-Conference Paper (Under Review at ICLR 2026) | 2025  
+arXiv Preprint | 2025  
 
 - Proposed LogiNumSynth, a fully controllable natural language problem synthesizer for joint logical and numerical reasoning.  
 - Designed a formal reasoning framework based on Facts–Rules–Query with an automatically constructed reasoning DAG.  
