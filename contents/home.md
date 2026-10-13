@@ -1,6 +1,6 @@
 <div class="profile-intro">
   <p>I am a graduate student at the School of Computer Science and Technology, Nanjing University. I obtained my Bachelor’s degree from Southeast University. My supervisor is Professor Gong Cheng (Websoft Group).</p>
-  <p>My research interests include large language model reasoning, agentic reinforcement learning, and multimodal reasoning. I am passionate about exploring intelligent systems that bridge theoretical foundations with practical applications.</p>
+  <p>My research interests include large language model reasoning, agentic reinforcement learning, and on-policy distillation. I am passionate about exploring intelligent systems that bridge theoretical foundations with practical applications.</p>
 </div>
 
 <div class="profile-details">
@@ -26,7 +26,7 @@
     <div class="interest-tags">
       <span>LLM Reasoning</span>
       <span>Agentic RL</span>
-      <span>Multimodal Reasoning</span>
+      <span>On-Policy Distillation</span>
     </div>
   </div>
 </div>
