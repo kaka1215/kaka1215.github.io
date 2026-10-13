@@ -1,23 +1,41 @@
-**Outcome-Anchored Credit Reallocation for Agentic Knowledge Graph Question Answering**
+<article class="publication-item">
+  <h3 class="publication-title">OpCredit: Operation-Aware Policy Learning for Agentic Knowledge Graph Question Answering</h3>
+  <div class="publication-meta">
+    <span class="publication-venue">Under review · ACL ARR</span>
+    <span class="publication-role publication-role-first">First author</span>
+  </div>
+</article>
 
-*Under Review at AAAI 2027*
+<article class="publication-item">
+  <h3 class="publication-title">CD-OPD: Contextual Digest for On-Policy Distillation</h3>
+  <div class="publication-meta">
+    <span class="publication-venue">Under review · ACL ARR</span>
+    <span class="publication-role">Second author</span>
+  </div>
+</article>
 
-Mingyuan Li, **Yucheng Li**, Xiaxia Wang, Gong Cheng
+<article class="publication-item">
+  <h3 class="publication-title">OACR: Outcome-Anchored Credit Reallocation for Agentic Knowledge Graph Question Answering</h3>
+  <div class="publication-meta">
+    <span class="publication-venue">Under review · ACL ARR</span>
+    <span class="publication-role">Second author</span>
+  </div>
+</article>
 
+<article class="publication-item">
+  <h3 class="publication-title">PSR: Efficient Knowledge Graph Question Answering via Plan-Guided Schema-Level Reasoning</h3>
+  <div class="publication-meta">
+    <span class="publication-venue publication-venue-accepted">Findings of EMNLP 2026</span>
+    <span class="publication-role">Second author</span>
+  </div>
+  <div class="publication-links"><a href="https://github.com/nju-websoft/PSR">Code<span aria-hidden="true"> ↗</span></a></div>
+</article>
 
-**PSR: Efficient Knowledge Graph Question Answering via Plan-Guided Schema-Level Reasoning**
-
-*Under Review at EMNLP 2026*
-
-Mingyuan Li, **Yucheng Li**, Yuheng Bao, Yawei Sun, Gong Cheng
-
-[[GitHub]](https://github.com/nju-websoft/PSR)
-
-
-**LogiNumSynth: Synthesizing Joint Logical–Numerical Reasoning Problems for Language Models**
-
-*arXiv Preprint*
-
-Yiwei Liu, **Yucheng Li**, Xiao Li, Gong Cheng
-
-[[arXiv]](https://arxiv.org/abs/2510.11031)  [[GitHub]](https://github.com/nju-websoft/LogiNumSynth)
+<article class="publication-item">
+  <h3 class="publication-title">LogiNumSynth: Synthesizing Joint Logical–Numerical Reasoning Problems for Language Models</h3>
+  <div class="publication-meta">
+    <span class="publication-venue publication-venue-preprint">arXiv preprint</span>
+    <span class="publication-role">Second author</span>
+  </div>
+  <div class="publication-links"><a href="https://arxiv.org/abs/2510.11031">Paper<span aria-hidden="true"> ↗</span></a><a href="https://github.com/nju-websoft/LogiNumSynth">Code<span aria-hidden="true"> ↗</span></a></div>
+</article>

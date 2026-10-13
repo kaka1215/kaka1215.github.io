@@ -81,69 +81,69 @@
 
 <body id="page-top">
     <!-- Navigation-->
-    <nav class="header navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
-        <div class="container px-5">
+    <nav class="header navbar navbar-expand-md navbar-light fixed-top" id="mainNav">
+        <div class="container site-container">
             <a id="page-top-title" class="navbar-brand fw-bold" href="#page-top"></a>
             <!-- <a href="#page-top"><img src="static/assets/img/CUMT_LOGO.svg" style="width: 11rem;"></a> -->
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
                 aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                MENU
+                Menu
                 <i class="bi-list"></i>
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#home">HOME</a>
+                        <a class="nav-link me-lg-3" href="#home">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#research">RESEARCH</a>
+                        <a class="nav-link me-lg-3" href="#research">Research</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#internship">INTERNSHIP</a>
+                        <a class="nav-link me-lg-3" href="#internship">Experience</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#publications">PUBLICATIONS</a>
+                        <a class="nav-link me-lg-3" href="#publications">Publications</a>
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
 
+    <main>
     <!-- Top Section -->
     <section class="top-section" style="background-image: url('static/assets/img/background.jpeg');">
         <div class="top-section-content">
-            <div class="container px-5">
+            <div class="container site-container">
                 <h2 id="top-section-bg-text" class="text-white display-3 lh-1 font-alt"></h2>
             </div>
         </div>
     </section>
     <!-- Top Section -->
 
-    <!-- Photo -->
-    <div class="container px-5">
-        <div id="avatar">
-            <img class="shadow" src="static/assets/img/photo.jpg">
-        </div>
-    </div>
-    <!-- Photo -->
-
     <!-- Home -->
-    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="home">
-        <div class="container px-5">
-            <header>
-                <h2 id="home-subtitle"> </h2>
-                <!-- <span class="bi bi-list"></span> -->
-            </header>
-            <div class="main-body" id="home-md"></div>
+    <section class="profile-section" id="home">
+        <div class="container site-container">
+            <div class="profile-layout">
+                <div class="profile-copy">
+                    <p class="section-kicker">GRADUATE STUDENT · NANJING UNIVERSITY</p>
+                    <h1 id="home-subtitle" class="home-title">Yucheng Li</h1>
+                    <div class="main-body" id="home-md"></div>
+                </div>
+                <figure class="profile-portrait" id="avatar">
+                    <img src="static/assets/img/photo.jpg" alt="Yucheng Li's Doraemon avatar" width="200" height="200">
+                    <a class="profile-github" href="https://github.com/kaka1215"><i class="bi bi-github" aria-hidden="true"></i> GitHub <span aria-hidden="true">↗</span></a>
+                </figure>
+            </div>
         </div>
     </section>
     <!-- Home -->
 
     <!-- Research -->
     <section class="bg-gradient-primary-to-secondary-dark mt5 md5" id="research">
-        <div class="container px-5">
+        <div class="container site-container">
             <header>
-                <h2 id="research-subtitle"><i class="bi bi-briefcase-fill"></i> RESEARCH </h2>
+                <p class="section-kicker">SELECTED PROJECTS</p>
+                <h2 id="research-subtitle">Research</h2>
             </header>
             <div class="main-body" id="research-md"></div>
         </div>
@@ -152,9 +152,10 @@
 
     <!-- Internship -->
     <section class="bg-gradient-primary-to-secondary-dark mt5 md5" id="internship">
-        <div class="container px-5">
+        <div class="container site-container">
             <header>
-                <h2 id="internship-subtitle"><i class="bi bi-briefcase-fill"></i> INTERNSHIP </h2>
+                <p class="section-kicker">INDUSTRY &amp; COLLABORATION</p>
+                <h2 id="internship-subtitle">Experience</h2>
             </header>
             <div class="main-body" id="internship-md"></div>
         </div>
@@ -164,9 +165,10 @@
 
     <!-- Publications -->
     <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="publications">
-        <div class="container px-5">
+        <div class="container site-container">
             <header>
-                <h2 id="publications-subtitle"><i class="bi bi-file-text-fill"></i>&nbsp;PUBLICATIONS</h2>
+                <p class="section-kicker">PAPERS &amp; PREPRINTS</p>
+                <h2 id="publications-subtitle">Publications</h2>
             </header>
             <div class="main-body" id="publications-md"></div>
 
@@ -174,12 +176,14 @@
     </section>
     <!-- Publications  -->
 
+    </main>
+
     <!-- Footer-->
     <footer class="bg-bottom text-center py-5">
-        <div class="container px-5">
-            <div class="text-white-50 small">
+        <div class="container site-container">
+            <div class="footer-content small">
                 <div id="copyright-text" class="mb-2"></div>
-                <a id="github-link" href="https://github.com/kaka1215">Github</a>
+                <a id="github-link" href="https://github.com/kaka1215">GitHub</a>
                 <span class="mx-1">&middot;</span>
                 <a id="license-link"
                     href="https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE">License</a>
