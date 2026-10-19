@@ -9,7 +9,7 @@
       <a class="experience-logo" href="https://www.kuaishou.com/official/material-lib" target="_blank" rel="noopener" aria-label="Kuaishou official logo source" title="Logo source: kuaishou.com"><img src="static/assets/img/organizations/kuaishou.png" alt="Kuaishou logo" width="56" height="56" loading="lazy"></a>
       <div>
         <h3>Kuaishou</h3>
-        <p class="experience-role">Research Intern · Foundation Model Capabilities</p>
+        <p class="experience-role">Research Intern · AI Foundation Model Center</p>
       </div>
     </div>
     <div class="experience-tags"><span>Foundation Models</span><span>Model Capabilities</span></div>
