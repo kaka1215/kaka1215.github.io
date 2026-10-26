@@ -11,6 +11,11 @@
 ### OpCredit: Operation-Aware Policy Learning for Agentic Knowledge Graph Question Answering  
 Conference Paper (Under Review at ACL ARR) | 2026 | First author  
 
+<div class="research-links">
+  <a href="https://arxiv.org/abs/2610.21345" target="_blank" rel="noopener noreferrer">arXiv<span aria-hidden="true"> ↗</span></a>
+  <a href="https://github.com/kaka1215/OpCredit" target="_blank" rel="noopener noreferrer">Code<span aria-hidden="true"> ↗</span></a>
+</div>
+
 Proposed **OpCredit**, an operation-aware policy-learning framework that addresses the mismatch between trajectory-level rewards and individual KG operations in agentic knowledge graph question answering.
 
 <details class="research-details">
@@ -38,6 +43,10 @@ Proposed **OpCredit**, an operation-aware policy-learning framework that address
 
 ### CD-OPD: Contextual Digest for On-Policy Distillation  
 Conference Paper (Under Review at ACL ARR) | 2026 | Second author  
+
+<div class="research-links">
+  <a href="https://arxiv.org/abs/2610.25359" target="_blank" rel="noopener noreferrer">arXiv<span aria-hidden="true"> ↗</span></a>
+</div>
 
 Proposed **CD-OPD**, using a teacher-generated dependency graph to curate relevant problem conditions and preceding reasoning into a Contextual Digest before student continuation.
 
@@ -67,6 +76,10 @@ Proposed **CD-OPD**, using a teacher-generated dependency graph to curate releva
 ### OACR: Outcome-Anchored Credit Reallocation for Agentic Knowledge Graph Question Answering  
 Conference Paper (Under Review at ACL ARR) | 2026 | Second author  
 
+<div class="research-links">
+  <a href="https://arxiv.org/abs/2610.25384" target="_blank" rel="noopener noreferrer">arXiv<span aria-hidden="true"> ↗</span></a>
+</div>
+
 Proposed **OACR**, which trains a KG-state outcome model to estimate outcome-reward changes between adjacent KG search states and converts them into operation credit to construct multiplicative token weights, reallocating token-level update magnitudes while preserving the sign of the outcome-level advantage.
 
 <details class="research-details">
@@ -92,7 +105,12 @@ Proposed **OACR**, which trains a KG-state outcome model to estimate outcome-rew
 <div class="research-copy">
 
 ### PSR: Efficient Knowledge Graph Question Answering via Plan-Guided Schema-Level Reasoning  
-Conference Paper (Findings of EMNLP 2026) | 2025 | Second author  
+Conference Paper (Findings of EMNLP 2026) | 2026 | Second author
+
+<div class="research-links">
+  <a href="https://aclanthology.org/2026.findings-emnlp.1091/" target="_blank" rel="noopener noreferrer">ACL Anthology<span aria-hidden="true"> ↗</span></a>
+  <a href="https://github.com/nju-websoft/PSR" target="_blank" rel="noopener noreferrer">Code<span aria-hidden="true"> ↗</span></a>
+</div>
 
 Proposed PSR, a training-free retrieval-augmented generation framework for multi-hop knowledge graph question answering with a constant number of LLM calls.
 
@@ -122,6 +140,11 @@ Proposed PSR, a training-free retrieval-augmented generation framework for multi
 
 ### LogiNumSynth: Synthesizing Joint Logical–Numerical Reasoning Problems for Language Models  
 arXiv Preprint | 2025  
+
+<div class="research-links">
+  <a href="https://arxiv.org/abs/2510.11031" target="_blank" rel="noopener noreferrer">arXiv<span aria-hidden="true"> ↗</span></a>
+  <a href="https://github.com/nju-websoft/LogiNumSynth" target="_blank" rel="noopener noreferrer">Code<span aria-hidden="true"> ↗</span></a>
+</div>
 
 Proposed LogiNumSynth, a fully controllable natural language problem synthesizer for joint logical and numerical reasoning.
 

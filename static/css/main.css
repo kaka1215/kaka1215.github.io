@@ -580,23 +580,32 @@ footer a:focus {
     font-weight: 600;
 }
 
-#publications .publication-links {
+#publications .publication-links,
+#research .research-links {
     display: flex;
-    gap: 1rem;
+    flex-wrap: wrap;
+    gap: 0.35rem 1rem;
     margin-top: 0.5rem;
     font-size: 0.85rem;
     font-weight: 600;
     line-height: 1.7;
 }
 
-#publications .publication-links a {
+#research .research-links {
+    margin: -0.4rem 0 0.85rem;
+}
+
+#publications .publication-links a,
+#research .research-links a {
     color: var(--h-title-color);
     text-decoration: none;
     text-underline-offset: 0.2em;
 }
 
 #publications .publication-links a:hover,
-#publications .publication-links a:focus-visible {
+#publications .publication-links a:focus-visible,
+#research .research-links a:hover,
+#research .research-links a:focus-visible {
     text-decoration: underline;
 }
 
